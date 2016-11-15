@@ -3,19 +3,19 @@
 ## 主要内容
    
 - [课程列表](#curriculum)
-- [专项课程学习](#special_course_learning)
+- [专项课程学习路线](#special_course_learning)
 - [辅助书籍](#advanced_books)
 - [论文专区](#papers_reading)
 
 ##<h2 id="curriculum">课程列表</h2>
-   和之前的一样，此处我们建议把Notes部分内容全部学完，并且能较好的理解并完成相应网站的学习作业，关于参考书此处同样不做要求。
+    和之前的一样，此处我们建议把Notes部分内容全部学完，并且能较好的理解并完成相应网站的学习作业，关于参考书此处同样不做要求。
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
 [概率图模型](https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C)| Stanford | [Probabilistic Graphical Models: Principles and Techniques](https://github.com/JimmyLin192/GraphicalModel/blob/master/Probabilistic%20Graphical%20Models%20Principles%20and%20Techniques.pdf) |[链接](http://cs.stanford.edu/~ermon/cs228/index.html)
 概率图模型(高级方法)| Stanford | [Machine Learning: a Probabilistic Perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020/ref=sr_1_2?ie=UTF8&qid=1336857747&sr=8-2) |  [链接](https://sites.google.com/site/cs228tspring2012/)
 
-##<h2 id="special_course_learning">专项课程学习</h2>
+##<h2 id="special_course_learning">专项课程学习路线</h2>
 
 课程 | 机构 | 参考书 | Notes等其他资料
 :-- | :--: | :--: | :--:
@@ -24,7 +24,7 @@
 
 
 ##<h2 id="auxiliary_course">进阶书籍</h2>  
-  下列书籍是领域公认的较好的学习书籍列表，**至少需要完成一本书籍的阅读**，方可进入之后的论文专区。
+   下列书籍是领域公认的较好的学习书籍列表，**至少需要完成一本书籍的阅读**，方可进入之后的论文专区。
 
 课程 | 作者 | 难度
 :-- | :--: | :--: | :--:
